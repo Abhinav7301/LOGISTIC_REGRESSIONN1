@@ -1,0 +1,22 @@
+{
+  "feature_columns": [
+    "age",
+    "study_hours_per_day",
+    "sleep_hours",
+    "stress_level",
+    "motivation_level",
+    "focus_score",
+    "attendance_percentage",
+    "assignment_completion_rate",
+    "gender_Male",
+    "city_type_Semi-Urban",
+    "city_type_Urban"
+  ],
+  "class_names": [
+    "High",
+    "Low",
+    "Medium"
+  ],
+  "accuracy": 0.5433,
+  "f1_macro": 0.4768
+}
